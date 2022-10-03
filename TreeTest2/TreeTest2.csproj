@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BinaryTreeLibrary2">
+      <HintPath>..\..\BinaryTreeLibrary2\BinaryTreeLibrary2\bin\Debug\net6.0\BinaryTreeLibrary2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
